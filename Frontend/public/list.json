@@ -1,0 +1,93 @@
+[
+    {
+        "id":"1",
+        "title": "Harry Potter and the Sorcerer's stone ",
+        "gener": "Fictional",
+        "price":0,
+        "category": "Free",
+        "image": "https://images.moviesanywhere.com/143cdb987186a1c8f94d4f18de211216/fdea56fa-2703-47c1-8da8-70fc5382e1ea.jpg"
+    },
+    
+    {
+          "id": "2",
+          "title": "The Fellowship of the Ring",
+          "gener": "Fantasy",
+          "price": 0,
+          "category": "Free",
+          "image": "https://m.media-amazon.com/images/I/813UBZ-O8sL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+          "id": "3",
+          "title": "The Great Gatsby",
+          "gener": "Drama",
+          "price":0,
+          "category": "Free",
+          "image": "https://m.media-amazon.com/images/I/81QuEGw8VPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+          "id": "4",
+          "title": "Jurassic Park",
+          "gener": "Science Fiction",
+          "price":0,
+          "category": "Free",
+          "image": "https://m.media-amazon.com/images/I/61+bmMAjnXL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+          "id": "5",
+          "title": "The Hunger Games",
+          "gener": "Dystopian Fiction",
+          "price":300,
+          "category": "Fiction",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg"
+    },
+    {
+          "id": "6",
+          "title": "To Kill a Mockingbird",
+          "gener": "Legal Drama",
+          "price": 0,
+          "category": "Free",
+          "image": "https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+          "id": "7",
+          "title": "Pride and Prejudice",
+          "gener": "Romance",
+          "price":0,
+          "category": "Free",
+          "image": "https://m.media-amazon.com/images/I/81h36FJn2JL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+          "id": "8",
+          "title": "The Da Vinci Code",
+          "gener": "Mystery",
+          "price": 260,
+          "category": "Mystry",
+          "image": "https://m.media-amazon.com/images/I/815WORuYMML._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+          "id": "9",
+          "title": "Alice's Adventures in Wonderland",
+          "gener": "Fantasy",
+          "price":0,
+          "category": "Free",
+          "image": "https://m.media-amazon.com/images/I/91MFVwBsxjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+          "id": "10",
+          "title": "The Catcher in the Rye",
+          "gener": "Coming-of-Age",
+          "price":0,
+          "category": "Free",
+          "image": "https://www.savethecat.com/wp-content/uploads/2019/05/243a0ba33adbee20d3ed689fbf712ec8-jd-salinger-holden-caulfield.jpg"
+    },
+    {
+          "id": "11",
+          "title": "Frankenstein",
+          "gener": "Horror",
+          "price":200,
+          "category": "Horror",
+          "image": "https://m.media-amazon.com/images/I/81EU992zdwL._AC_UF1000,1000_QL80_.jpg"
+    }
+      
+      
+]
