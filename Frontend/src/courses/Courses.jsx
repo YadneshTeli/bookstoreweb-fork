@@ -1,8 +1,12 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import Navbar from '../components/Navbar'
 import Course from '../components/Course'
 import Footer from '../components/Footer'
 function Courses() {
+  const {book,setBook} = useState([])
+  useEffect(() =>{
+      const getBook = courses
+  },[])
   return (
     <>
       <Navbar/>

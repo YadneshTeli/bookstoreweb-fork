@@ -6,7 +6,7 @@ function Cards({item}) {
     <>
     <div className='mt-5 mb-3 p-3'>
     <div className="card w-70 bg-base-100 dark:shadow-neutral-800 shadow-xl hover:scale-105 duration-500 dark:bg-black dark:text-white ">
-  <figure className='h-50'>
+  <figure className='h-full'>
     <img src= {item.image} alt="Shoes" />
   </figure>
   <div className="card-body">
